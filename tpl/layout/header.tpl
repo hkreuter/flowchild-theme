@@ -1,2 +1,2 @@
-Here come the flow child theme.
-[{$smarty.block.parent}]
+Here comes the flow child theme.
+[{* $smarty.block.parent *}]
