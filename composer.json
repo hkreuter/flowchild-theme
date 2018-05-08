@@ -1,0 +1,22 @@
+{
+    "name": "hkreuter/flowchild-theme",
+    "description": "This is a child of Flow Theme for OXID eShop.",
+    "type": "oxideshop-theme",
+    "keywords": [
+        "oxid",
+        "themes",
+        "eShop"
+    ],
+    "homepage": "https://www.oxid-esales.com/en/home.html",
+    "license": [
+        "GPL-3.0-only",
+        "proprietary"
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "oxideshop": {
+            "target-directory": "flowchild",
+            "assets-directory": "out/flowchild"
+        }
+    }
+}
